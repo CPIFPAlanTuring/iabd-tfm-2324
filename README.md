@@ -50,7 +50,7 @@ Descripción de los datos. Se debe dar una descripción completa de los datos in
 
 ## 🗓️ Fechas a tener en cuenta<a name="id4"></a>
 
-* Sorteo de grupos y explicación del TFM: miércoles 31 de enero de 2024
+* Sorteo de parejas y explicación del TFM: miércoles 31 de enero de 2024
 * Comienzo del proyecto: lunes 5 de febrero de 2024
 * Fecha límite de creación del repositorio del TFM con el título, el punto 1 de los requisitos (justificación y descripción) y enlazado en este repositorio-índice: lunes 5 de febrero de 2024
 * Revisión (checkpoint) : viernes 19 de febrero de 2024 (el jueves por la noche debe estar actualizado el repositorio con los últimos cambios).

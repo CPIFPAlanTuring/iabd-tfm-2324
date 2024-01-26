@@ -50,6 +50,14 @@ Descripción de los datos. Se debe dar una descripción completa de los datos in
 
 ## 🗓️ Fechas a tener en cuenta<a name="id4"></a>
 
+Sorteo de grupos y explicación del TFM: miércoles 31 de enero
+Comienzo del proyecto: lunes 13 de febrero
+Fecha límite de creación del repositorio del TFM con el título, el punto 1 de los requisitos (justificación y descripción) y enlazado en este repositorio-índice: lunes 13 de febrero
+Revisión (checkpoint) : viernes 24 de febrero (el jueves por la noche debe estar actualizado el repositorio con los últimos cambios).
+Fecha límite para subir todo el material que se pide sobre el TFM: domingo 12 de marzo a las 23:00h.
+Exposiciones generales: viernes 8 de marzo de 2024
+Exposiciones para Accenture: por determinar
+
 ## ⏰ Cuadrante horario de las exposiciones<a name="id5"></a>
 
 ## 📍 Lugar de las exposiciones<a name="id6"></a>

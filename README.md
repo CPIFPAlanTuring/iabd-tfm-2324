@@ -30,7 +30,7 @@ Cada grupo debe cumplimentar la siguiente tabla:
 
 ## Requisitos y criterios<a name="id2"></a>
 
-El proyecto se realiza por parejas elegidas por sorteo y la nota de ambos alumnos será la nota del proyecto.
+El proyecto se realiza en grupos de tres elegidas por sorteo y la nota de ambos alumnos será la nota del proyecto.
 
 El Trabajo de Fin de Máster consiste en la realización de un proyecto de Inteligencia Artificial y Big Data que incluya los siguientes apartados:
 

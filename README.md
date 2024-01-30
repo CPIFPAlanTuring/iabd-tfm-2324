@@ -30,15 +30,13 @@ Cada grupo debe cumplimentar la siguiente tabla:
 
 ## Requisitos y criterios<a name="id2"></a>
 
-El proyecto se realiza en grupos de tres elegidas por sorteo y la nota de ambos alumnos será la nota del proyecto.
+El proyecto se realiza en grupos de dos o tres alumnos/as elegidos por sorteo (cinco grupos de tres y dos grupos de dos). La nota del proyecto será la nota de cada uno de los alumnos.
 
 El Trabajo de Fin de Máster consiste en la realización de un proyecto de Inteligencia Artificial y Big Data que incluya los siguientes apartados:
 
 1. Justificación y descripción del proyecto.
-2. Obtención de datos. Se debe especificar la fuente de los datos. Se indicará por qué medios se han obtenido (encuestas, sensores, scrapping, etc.)
-Los datos se deben cargar en una estructura que permita su posterior manipulación y uso.
-3. Limpieza de datos (eliminación de nulos y datos erróneos, etc.)
-Descripción de los datos. Se debe dar una descripción completa de los datos indicando qué significa cada uno de los atributos.
+2. Obtención de datos. Se debe especificar la fuente de los datos. Se indicará por qué medios se han obtenido (encuestas, sensores, scrapping, etc.). Los datos se deben cargar en una estructura que permita su posterior manipulación y uso.
+3. Limpieza de datos (eliminación de nulos y datos erróneos, etc.). Descripción de los datos. Se debe dar una descripción completa de los datos indicando qué significa cada uno de los atributos.
 4. Exploración y visualización de los datos. Se realizará un estudio de los datos buscando correlaciones, mostrando gráficas de diferente tipología, observando si hay valores nulos, etc.
 5. Preparación de los datos para los algoritmos de Machine Learning. Se deben tratar los datos (limpiando, escalando, separando y todo lo que sea necesario) de tal forma que queden listos para entrenar el modelo.
 6. Entrenamiento del modelo y comprobación del rendimiento.  Se entrenarán uno o varios modelos, comprobando en cada caso el rendimiento que ofrecen mediante las apropiadas medidas de error y/o acierto.

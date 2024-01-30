@@ -63,11 +63,30 @@ El repositorio debe contener lo siguiente:
 * Comienzo del proyecto: lunes 5 de febrero de 2024
 * Fecha límite de creación del repositorio del TFM con el título, el punto 1 de los requisitos (justificación y descripción) y enlazado en este repositorio-índice: lunes 5 de febrero de 2024
 * Revisión (checkpoint) : viernes 19 de febrero de 2024 (el jueves por la noche debe estar actualizado el repositorio con los últimos cambios).
-* Fecha límite para subir todo el material que se pide sobre el TFM: miércoles 6 de marzo de 2024 a las 23:00h.
+* Fecha límite para subir todo el material que se pide sobre el TFM: miércoles 6 de marzo de 2024 a las 23:59h.
 * Exposiciones generales: jueves 7 de marzo de 2024
 * Exposiciones para Accenture: por determinar
 
 ## ⏰ Cuadrante horario de las exposiciones<a name="id5"></a>
+
+La duración de cada exposición será de 20 minutos (15 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Todos los alumnos deberán estar presentes desde las 9:15h
+
+### :calendar: jueves 7 de marzo de 2024
+
+* 09:15h - 09:35h - Grupo 1
+* 09:40h - 10:00h - Grupo 2
+* 10:05h - 10:25h - Grupo 3
+* 10:30h - 10:50h - Grupo 4
+
+<hr>
+
+ 🥪 D E S C A N S O ☕
+
+<hr>
+
+* 11:20h - 11:40h - Grupo 5
+* 11:45h - 12:05h - Grupo 6
+* 12:10h - 12:30h - Grupo 7
 
 ## 📍 Lugar de las exposiciones<a name="id6"></a>
 
@@ -75,4 +94,22 @@ Las exposiciones tendrán lugar en [C/ Frederick Terman,3. 29590, PTA](https://g
 
 <img src="incubadora.png">
 
+### :calendar: Fecha por determinar
+
+<img height="52px" src="accenture.svg">
+
+Exposición de los tres mejores TFM a Accenture.
+
+La duración de cada exposición será de 20 minutos (15 de exposición y 5 o 10 de preguntas). 
+
+* 09:30h - 10:00h 🏅 Grupo seleccionado 1
+* 10:00h - 10:30h 🏅 Grupo seleccionado 2
+* 10:30h - 11:00h 🏅 Grupo seleccionado 3
+
+(Las franjas horarias son provisionales)
+
 ## 📝 Evaluación del TFM<a name="id7"></a>
+
+La nota de cada uno de los alumnos de un grupo es la nota del TFM.
+
+Para la elección de los tres mejores proyectos que se expondrán a Accenture se tienen en cuenta los votos de los alumnos de forma individual con un 30% de peso y los votos de los profesores con un 70% de peso. Un alumno no puede votar por su propio equipo.

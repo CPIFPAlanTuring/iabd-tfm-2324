@@ -46,6 +46,17 @@ El Trabajo de Fin de Máster consiste en la realización de un proyecto de Intel
 
 ## Código y documentación a entregar<a name="id3"></a>
 
+Todo el material debe estar incluido o enlazado en el repositorio del TFM de cada grupo.
+
+El repositorio debe contener lo siguiente:
+  * Título
+  * Descripción
+  * Código fuente
+  * Presentación en formato PDF. Se puede utilizar como apoyo para la exposición cualquier otro formato de presentación pero es obligatorio incluir siempre la presentación en PDF en el repositorio.
+  * Enlace a la aplicación web.
+  * Recursos utilizados (procedencia de los datos, manuales o tutoriales consultados, etc.).
+  * Vídeo de 10 minutos máximo, donde el grupo exponga brevemente su proyecto y muestre su funcionamiento. Es muy importante hacer una introducción diciendo el nombre de la aplicación y de qué trata en una frase, antes de pasar a los detalles técnicos. El vídeo debe estar subido a Youtube y enlazado desde el repositorio de GitHub.
+
 ## 🗓️ Fechas a tener en cuenta<a name="id4"></a>
 
 * Sorteo de parejas y explicación del TFM: miércoles 31 de enero de 2024

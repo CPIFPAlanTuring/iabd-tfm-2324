@@ -61,7 +61,7 @@ El repositorio debe contener lo siguiente:
 * Sorteo de parejas y explicación del TFM: miércoles 31 de enero de 2024
 * Comienzo del proyecto: lunes 5 de febrero de 2024
 * Fecha límite de creación del repositorio del TFM con el título, el punto 1 de los requisitos (justificación y descripción) y enlazado en este repositorio-índice: lunes 5 de febrero de 2024
-* Revisión (checkpoint) : viernes 19 de febrero de 2024 (el jueves por la noche debe estar actualizado el repositorio con los últimos cambios).
+* Revisión (checkpoint) : lunes 19 de febrero de 2024 (el domingo por la noche debe estar actualizado el repositorio con los últimos cambios).
 * Fecha límite para subir todo el material que se pide sobre el TFM: miércoles 6 de marzo de 2024 a las 23:59h.
 * Exposiciones generales: jueves 7 de marzo de 2024
 * Exposiciones para Accenture: por determinar

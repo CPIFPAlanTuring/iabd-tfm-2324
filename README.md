@@ -24,6 +24,7 @@ Cada grupo debe cumplimentar la siguiente tabla:
 |   2   |                     |                     |                    |                |                       |
 |   3   |                     |                     |                    |                |                       |
 |   4   |                     |                     |                    |                |                       |
+|   5   | Guillermo Rojo Santos | José Antonio Díaz Aranda | Gabriel Postigo Rando |                |                       |
 |   6   | Andrés García Domínguez | Alejandro Fernández Romero |                    |                |                       |
 |   7   |                     |                     |                    |                |                       |
 

@@ -18,9 +18,9 @@ En este repositorio se encuentra centralizada toda la información relativa a lo
 
 Cada grupo debe cumplimentar la siguiente tabla:
 
-| Grupo | Primer integrante   | Segundo integrante  | Tercer integrante  | Título del TFM | Enlace al repositorio |
-|:-----:|:-------------------:|:-------------------:|:------------------:|:--------------:|:---------------------:|
-|   1   |                     |                     |                    |                |                       |
+| Grupo | Primer integrante       | Segundo integrante  | Tercer integrante  | Título del TFM | Enlace al repositorio |
+|:-----:|:-----------------------:|:-------------------:|:------------------:|:--------------:|:---------------------:|
+|   1   | Andrés García Domínguez |                     |                    |                |                       |
 |   2   |                     |                     |                    |                |                       |
 |   3   |                     |                     |                    |                |                       |
 |   4   |                     |                     |                    |                |                       |

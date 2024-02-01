@@ -23,7 +23,7 @@ Cada grupo debe cumplimentar la siguiente tabla:
 |   1   |                     |                     |                    |                    |
 |   2   |   Christian Martín Díaz                  |   María Sánchez Sánchez                  |   Pablo Martín Trujillo                  |                |                       |
 |   3   |   Pablo Oller Pérez | Pablo Santos Quirce | Alejandro Castillo |                |                       |
-|   4   | Silvia Donaire Serrano | Elena Racero Gonzalez | Manuel Fajardo Jimenez |                |                       |
+|   4   | Silvia Donaire Serrano | Elena Racero González | Manuel Fajardo Jiménez |                |                       |
 |   5   | Guillermo Rojo Santos | José Antonio Díaz Aranda | Gabriel Postigo Rando |                |                       |
 |   6   | Andrés García Domínguez | Alejandro Fernández Romero |                    |                |                       |
 |   7   |                     |                     |                    |                |                       |

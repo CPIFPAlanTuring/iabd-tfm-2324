@@ -21,7 +21,7 @@ Cada grupo debe cumplimentar la siguiente tabla:
 | Grupo | Primer integrante       | Segundo integrante         | Tercer integrante  | Título del TFM | Enlace al repositorio |
 |:-----:|:-----------------------:|:-------------------:|:------------------:|:--------------:|:---------------------:|
 |   1   |                     |                     |                    |                    |
-|   2   |                     |                     |                    |                |                       |
+|   2   |   Christian Martín Díaz                  |   María Sánchez Sánchez                  |   Pablo Martín Trujillo                  |                |                       |
 |   3   |   Pablo Oller Pérez | Pablo Santos Quirce | Alejandro Castillo |                |                       |
 |   4   |                     |                     |                    |                |                       |
 |   5   | Guillermo Rojo Santos | José Antonio Díaz Aranda | Gabriel Postigo Rando |                |                       |

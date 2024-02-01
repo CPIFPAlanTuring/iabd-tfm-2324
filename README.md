@@ -21,7 +21,7 @@ Cada grupo debe cumplimentar la siguiente tabla:
 | Grupo | Primer integrante       | Segundo integrante         | Tercer integrante  | Título del TFM | Enlace al repositorio |
 |:-----:|:-----------------------:|:-------------------:|:------------------:|:--------------:|:---------------------:|
 |   1   |Alberto Moreno González                     |Ciro León Espinosa Aviles                     |Francisco López González                    |                    |
-|   2   |   Christian Martín Díaz                  |   María Sánchez Sánchez                  |   Pablo Martín Trujillo                  |                |                       |
+|   2   |   Christian Martín Díaz                  |   María Sánchez Sánchez                  |   Pablo Martín Trujillo                  |BeatBuddy                |https://github.com/mariasnchez/BeatBuddy                       |
 |   3   |   Pablo Oller Pérez | Pablo Santos Quirce | Alejandro Castillo |                |                       |
 |   4   | Silvia Donaire Serrano | Elena Racero González | Manuel Fajardo Jiménez |                |                       |
 |   5   | Guillermo Rojo Santos | José Antonio Díaz Aranda | Gabriel Postigo Rando |                |                       |

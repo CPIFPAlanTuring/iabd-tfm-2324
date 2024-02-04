@@ -25,7 +25,7 @@ Cada grupo debe cumplimentar la siguiente tabla:
 |   3   |   Pablo Oller Pérez | Pablo Santos Quirce | Alejandro Castillo | Fraud Detect               | https://github.com/pabloquirce23/fraud-detect.git                      |
 |   4   | Silvia Donaire Serrano | Elena Racero González | Manuel Fajardo Jiménez | EcoSphere Predictor | https://github.com/SilviaDS00/EcoSphere-Predictor |
 |   5   | Guillermo Rojo Santos | José Antonio Díaz Aranda | Gabriel Postigo Rando |        GestoLingo        |https://github.com/GuillermoRojoSantos/GestoLingo.git                       |
-|   6   | Andrés García Domínguez | Alejandro Fernández Romero |FoundYou                    |                |https://github.com/agardom2002/Reconocimiento-de-imagen.git                       |
+|   6   | Andrés García Domínguez | Alejandro Fernández Romero |                    |FoundYou                  |https://github.com/agardom2002/FoundYou                       |
 |   7   | Juan José Medina Díaz | Jesus Cánovas Barqueros |                    | DermaScan| https://github.com/juanjo-18/DermaScan      |
 
 ## Requisitos y criterios<a name="id2"></a>

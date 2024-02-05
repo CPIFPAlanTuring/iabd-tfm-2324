@@ -23,7 +23,7 @@ Cada grupo debe cumplimentar la siguiente tabla:
 |   1   |Alberto Moreno González                     |Ciro León Espinosa Aviles                     |Francisco López González                    |ExpectedFoot                    |https://github.com/albertomorenogonzalez/ExpectedFoot
 |   2   |   Christian Martín Díaz                  |   María Sánchez Sánchez                  |   Pablo Martín Trujillo                  |BeatBuddy                |https://github.com/mariasnchez/BeatBuddy                       |
 |   3   |   Pablo Oller Pérez | Pablo Santos Quirce | Alejandro Castillo | Fraud Detect               | https://github.com/pabloquirce23/fraud-detect.git                      |
-|   4   | Silvia Donaire Serrano | Elena Racero González | Manuel Fajardo Jiménez | EcoSphere Predictor | https://github.com/SilviaDS00/EcoSphere-Predictor |
+|   4   | Silvia Donaire Serrano | Elena Racero González | Manuel Fajardo Jiménez | RecoFood | https://github.com/SilviaDS00/RecoFood |
 |   5   | Guillermo Rojo Santos | José Antonio Díaz Aranda | Gabriel Postigo Rando |        GestoLingo        |https://github.com/GuillermoRojoSantos/GestoLingo.git                       |
 |   6   | Andrés García Domínguez | Alejandro Fernández Romero |                    |FoundYou                  |https://github.com/agardom2002/FoundYou                       |
 |   7   | Juan José Medina Díaz | Jesus Cánovas Barqueros |                    | DermaScan| https://github.com/juanjo-18/DermaScan      |

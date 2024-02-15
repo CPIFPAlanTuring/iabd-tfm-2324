@@ -94,7 +94,7 @@ Las exposiciones tendrán lugar en [C/ Frederick Terman,3. 29590, PTA](https://g
 
 <img src="incubadora.png">
 
-### :calendar: Fecha por determinar
+### :calendar: Miércoles 13 de marzo
 
 <img height="52px" src="accenture.svg">
 
@@ -102,11 +102,9 @@ Exposición de los tres mejores TFM a Accenture.
 
 La duración de cada exposición será de 20 minutos (15 de exposición y 5 o 10 de preguntas). 
 
-* 09:30h - 10:00h 🏅 Grupo seleccionado 1
-* 10:00h - 10:30h 🏅 Grupo seleccionado 2
-* 10:30h - 11:00h 🏅 Grupo seleccionado 3
-
-(Las franjas horarias son provisionales)
+* 12:00h - 12:20h 🏅 Grupo seleccionado 1
+* 12:20h - 12:40h 🏅 Grupo seleccionado 2
+* 12:40h - 13:00h 🏅 Grupo seleccionado 3
 
 ## 📝 Evaluación del TFM<a name="id7"></a>
 

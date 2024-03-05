@@ -56,6 +56,7 @@ El repositorio debe contener lo siguiente:
   * Enlace a la aplicación web.
   * Recursos utilizados (procedencia de los datos, manuales o tutoriales consultados, etc.).
   * Vídeo de 10 minutos máximo, donde el grupo exponga brevemente su proyecto y muestre su funcionamiento. Es muy importante hacer una introducción diciendo el nombre de la aplicación y de qué trata en una frase, antes de pasar a los detalles técnicos. El vídeo debe estar subido a Youtube y enlazado desde el repositorio de GitHub.
+  * Archivo (independiente o texto dentro del README) en el que se indique explícitamente el porcentaje que le corresponde a cada miembro del trabajo realizado de dicho proyecto. En caso de 3 integrantes, el 33% se considerará como 1/3. Deberéis consensuarlo. Os pedimos que seáis justos y coherentes con el trabajo del resto de compañeros.
 
 ## 🗓️ Fechas a tener en cuenta<a name="id4"></a>
 
@@ -90,9 +91,9 @@ La duración de cada exposición será de 20 minutos (15 de exposición y 5 de p
 
 ## 📍 Lugar de las exposiciones<a name="id6"></a>
 
-Las exposiciones tendrán lugar en [C/ Frederick Terman,3. 29590, PTA](https://goo.gl/maps/NUnpUFXAWocgUKxv9).
+Las exposiciones tendrán lugar en las oficinas de Accenture(https://maps.app.goo.gl/SLzMQwrNu2CM4mvL6).
 
-<img src="incubadora.png">
+<img src="https://a.mktgcdn.com/p/rahf5ktEglvh4WE5ZxS7YG1HtX8Bm8YWr0Woq_gB8Og/2560x1779.jpg">
 
 ### :calendar: Miércoles 13 de marzo
 
@@ -108,6 +109,6 @@ La duración de cada exposición será de 20 minutos (15 de exposición y 5 o 10
 
 ## 📝 Evaluación del TFM<a name="id7"></a>
 
-La nota de cada uno de los alumnos de un grupo es la nota del TFM.
+La nota de cada uno de los alumnos de un grupo es la nota del TFM. Se tendrá en cuenta el porcentaje que cada grupo haya asignado a cada uno de sus integrantes para repartir la calificación.
 
 Para la elección de los tres mejores proyectos que se expondrán a Accenture se tienen en cuenta los votos de los alumnos de forma individual con un 30% de peso y los votos de los profesores con un 70% de peso. Un alumno no puede votar por su propio equipo.

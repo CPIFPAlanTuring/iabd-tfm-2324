@@ -74,20 +74,19 @@ La duración de cada exposición será de 20 minutos (15 de exposición y 5 de p
 
 ### :calendar: jueves 7 de marzo de 2024
 
-* 09:15h - 09:35h - Grupo 1
-* 09:40h - 10:00h - Grupo 2
-* 10:05h - 10:25h - Grupo 3
-* 10:30h - 10:50h - Grupo 4
+* 08:30h - 08:50h - Grupo 1
+* 08:55h - 09:15h - Grupo 2
+* 09:20h - 09:40h - Grupo 3
+* 09:45h - 10:05h - Grupo 4
+* 10:10h - 10:30h - Grupo 5
+* 10:35h - 10:55h - Grupo 6
+* 11:00h - 11:20h - Grupo 7
 
 <hr>
 
- 🥪 D E S C A N S O ☕
+ 🥪 D E S A Y U N O ☕
 
-<hr>
 
-* 11:20h - 11:40h - Grupo 5
-* 11:45h - 12:05h - Grupo 6
-* 12:10h - 12:30h - Grupo 7
 
 ## 📍 Lugar de las exposiciones<a name="id6"></a>
 

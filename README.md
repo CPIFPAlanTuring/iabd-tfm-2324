@@ -20,12 +20,12 @@ Cada grupo debe cumplimentar la siguiente tabla:
 
 | Grupo | Primer integrante       | Segundo integrante         | Tercer integrante  | Título del TFM | Enlace al repositorio |
 |:-----:|:-----------------------:|:-------------------:|:------------------:|:--------------:|:---------------------:|
-|   1   |Alberto Moreno González                     |Ciro León Espinosa Aviles                     |Francisco López González                    |ExpectedFoot                    |https://github.com/albertomorenogonzalez/ExpectedFoot
-|   2   |   Christian Martín Díaz                  |   María Sánchez Sánchez                  |   Pablo Martín Trujillo                  |BeatBuddy                |https://github.com/mariasnchez/BeatBuddy                       |
+|   1   |Alberto Moreno González                     |Ciro León Espinosa Aviles                     |Francisco López González                    |ExpectedFoot                    | https://github.com/albertomorenogonzalez/ExpectedFoot
+|   2   |   Christian Martín Díaz                  |   María Sánchez Sánchez                  |   Pablo Martín Trujillo                  |BeatBuddy                | https://github.com/mariasnchez/BeatBuddy                       |
 |   3   |   Pablo Oller Pérez | Pablo Santos Quirce | Alejandro Castillo | Fraud Detect               | https://github.com/pabloquirce23/fraud-detect.git                      |
 |   4   | Silvia Donaire Serrano | Elena Racero González | Manuel Fajardo Jiménez | RecoFood | https://github.com/SilviaDS00/RecoFood |
-|   5   | Guillermo Rojo Santos | José Antonio Díaz Aranda | Gabriel Postigo Rando |        GestoLingo        |https://github.com/GuillermoRojoSantos/GestoLingo.git                       |
-|   6   | Andrés García Domínguez | Alejandro Fernández Romero |                    |FireDetector                  |https://github.com/agardom2002/FireDetector                     |
+|   5   | Guillermo Rojo Santos | José Antonio Díaz Aranda | Gabriel Postigo Rando |        GestoLingo        | https://github.com/GuillermoRojoSantos/GestoLingo.git                       |
+|   6   | Andrés García Domínguez | Alejandro Fernández Romero |                    |FireDetector                  | https://github.com/agardom2002/FireDetector                     |
 |   7   | Juan José Medina Díaz | Jesus Cánovas Barqueros |                    | DermaScan| https://github.com/juanjo-18/DermaScan      |
 
 ## Requisitos y criterios<a name="id2"></a>

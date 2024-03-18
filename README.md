@@ -27,6 +27,7 @@ Cada grupo debe cumplimentar la siguiente tabla:
 |   5   | Guillermo Rojo Santos | José Antonio Díaz Aranda | Gabriel Postigo Rando |        GestoLingo        | https://github.com/GuillermoRojoSantos/GestoLingo.git                       |
 |   6   | Andrés García Domínguez | Alejandro Fernández Romero |                    |FireDetector                  | https://github.com/agardom2002/FireDetector                     |
 |   7   | Juan José Medina Díaz | Jesus Cánovas Barqueros |                    | DermaScan| https://github.com/juanjo-18/DermaScan      |
+|   8   | Hanane Arrazouki |  |                    | |       |
 
 ## Requisitos y criterios<a name="id2"></a>
 
@@ -105,6 +106,14 @@ La duración de cada exposición será de 20 minutos (15 de exposición y 5 o 10
 * 12:00h - 12:20h 🏅 Grupo seleccionado 1
 * 12:20h - 12:40h 🏅 Grupo seleccionado 2
 * 12:40h - 13:00h 🏅 Grupo seleccionado 3
+
+## 🗓️ PERIODO EXTRAORDINARIO: Fechas a tener en cuenta<a name="id4"></a>
+
+* Comienzo del proyecto: lunes 18 de marzo de 2024
+* Fecha límite de creación del repositorio del TFM con el título, el punto 1 de los requisitos (justificación y descripción) y enlazado en este repositorio-índice: lunes 18 de marzo de 2024
+* Revisión (checkpoint) : lunes 8 de abril de 2024 (el domingo por la noche debe estar actualizado el repositorio con los últimos cambios).
+* Fecha límite para subir todo el material que se pide sobre el TFM: domingo 12 de mayo de 2024 a las 23:59h.
+* Exposiciones generales: lunes 13 de mayo de 2024 a las 10:00
 
 ## 📝 Evaluación del TFM<a name="id7"></a>
 

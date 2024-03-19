@@ -27,7 +27,7 @@ Cada grupo debe cumplimentar la siguiente tabla:
 |   5   | Guillermo Rojo Santos | José Antonio Díaz Aranda | Gabriel Postigo Rando |        GestoLingo        | https://github.com/GuillermoRojoSantos/GestoLingo.git                       |
 |   6   | Andrés García Domínguez | Alejandro Fernández Romero |                    |FireDetector                  | https://github.com/agardom2002/FireDetector                     |
 |   7   | Juan José Medina Díaz | Jesus Cánovas Barqueros |                    | DermaScan| https://github.com/juanjo-18/DermaScan      |
-|   8   | Hanane Arrazouki |  |                    | |       |
+|   8   | Hanane Arrazouki |  |                    | MyAnimeMatch |    https://github.com/HananeArrazouki/OtakuExplorer   |
 
 ## Requisitos y criterios<a name="id2"></a>
 

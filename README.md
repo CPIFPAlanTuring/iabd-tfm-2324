@@ -112,8 +112,9 @@ La duración de cada exposición será de 20 minutos (15 de exposición y 5 o 10
 * Comienzo del proyecto: lunes 18 de marzo de 2024
 * Fecha límite de creación del repositorio del TFM con el título, el punto 1 de los requisitos (justificación y descripción) y enlazado en este repositorio-índice: lunes 18 de marzo de 2024
 * Revisión (checkpoint) : lunes 8 de abril de 2024 (el domingo por la noche debe estar actualizado el repositorio con los últimos cambios).
-* Fecha límite para subir todo el material que se pide sobre el TFM: domingo 12 de mayo de 2024 a las 23:59h.
-* Exposiciones generales: lunes 13 de mayo de 2024 a las 10:00
+* Fecha límite para subir todo el material que se pide sobre el TFM: domingo 16 de junio de 2024 a las 23:59h.
+* Exposiciones generales: lunes 17 de junio de 2024 a las 12:00h.
+* Duración: 10 minutos.
 
 ## 📝 Evaluación del TFM<a name="id7"></a>
 
